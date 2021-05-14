@@ -13,14 +13,14 @@ TABLE OF CONTENTS
 
 
 
-1.	Project Objective. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-2.	Dataset Description. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-3.	Data Set and Library imports . . . . . . . . . . . . . . . . . . . . . . . 5
-4.	Data Analysis and Preprocessing . . . . . . . . . . . . . . . . . . . 7
-5.	Visualization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
-6.	ML classification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
-7.	Result . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
-8.	References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+1.	Project Objective
+2.	Dataset Description
+3.	Data Set and Library imports
+4.	Data Analysis and Preprocessing
+5.	Visualization
+6.	ML classification
+7.	Result
+8.	References
 
 
 
